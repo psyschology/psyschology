@@ -2,7 +2,8 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning app development
 - 💞️ I’m looking to collaborate on coding projects
-- 📫 You can reach me via email 
+- 📫 Connect with me:
+- [LinkedIn][(https://www.linkedin.com/in/jay-basotia-560442227/)]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hated coding once :P
 
