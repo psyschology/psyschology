@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 
-Hey there! I'm Jay, the founder of [Jetweb Labs](https://jetweb.in). With a passion for crafting innovative web solutions, I specialize in:
+Hey there! I'm Jay, the founder & CEO of [Jetweb Labs](https://jetweb.in). With a passion for crafting innovative web solutions, I specialize in:
 
 - **Full Stack Development**: Creating seamless and scalable web applications.
 - **Cloud Management**: Architecting robust cloud infrastructures.
@@ -39,8 +39,8 @@ Hey there! I'm Jay, the founder of [Jetweb Labs](https://jetweb.in). With a pass
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaybasotia)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jaybasotia)
 [![Website](https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://jetweb.in)
 
 ---
@@ -56,12 +56,12 @@ Hey there! I'm Jay, the founder of [Jetweb Labs](https://jetweb.in). With a pass
 ## 📚 Recent Projects
 
 ### 🌐 Web Projects
-- **[Project 1](https://github.com/your-github-username/project1)**: A revolutionary web application that does XYZ.
-- **[Project 2](https://github.com/your-github-username/project2)**: An innovative platform for ABC.
-- **[Project 3](https://github.com/your-github-username/project3)**: A cutting-edge tool for DEF.
+- **[Project 1](https://github.com/psyschology/academica1)**: A Web Application for the Coaching Center Academica
+- **[Project 2](https://github.com/psyschology/fun)**: An innovative platform for hiring.
+- **[Project 3](https://github.com/psyschology/djheman)**: A cutting-edge portfolio for DJ Hemant.
 
 ### 📱 Mobile Projects
-- **[Makeup Artists App](https://github.com/your-github-username/makeup-artists-app)**: A mobile app for makeup artists similar to Urban Company.
+- **[Makeup Artists App](https://github.com/psyschology/MUA_App)**: A mobile app for makeup artists similar to Urban Company.
 
 ---
 
@@ -73,5 +73,5 @@ Hey there! I'm Jay, the founder of [Jetweb Labs](https://jetweb.in). With a pass
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/your-github-username/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/psyschology/count.svg)
 
