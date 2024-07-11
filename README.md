@@ -1,74 +1,77 @@
-# 👋 Hi there, I'm Jay!
+# 🚀 Jay's Tech Universe
 
-### 🚀 Founder of [Jetweb Labs](https://jetweb.in) | Full Stack Developer | Cloud Manager | UI/UX Designer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%230000FF&lines=Founder+of+Jetweb+Labs;Full+Stack+Developer;Cloud+Manager;UI/UX+Designer;Innovator+and+Creator)](https://git.io/typing-svg)
 
 ---
 
 ## 🌟 About Me
 
-- 🌐 **Web Development**: Crafting beautiful, responsive, and performant websites.
-- ☁️ **Cloud Management**: Architecting and maintaining scalable cloud solutions.
-- 🎨 **UI/UX Design**: Designing user experiences that are both functional and delightful.
+Hey there! I'm Jay, the founder of [Jetweb Labs](https://jetweb.in). With a passion for crafting innovative web solutions, I specialize in:
+
+- **Full Stack Development**: Creating seamless and scalable web applications.
+- **Cloud Management**: Architecting robust cloud infrastructures.
+- **UI/UX Design**: Designing user interfaces that are both intuitive and visually stunning.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🔥 Tech Stack & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide=contribs,prs&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+[![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/your-github-username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)](https://github.com/your-github-username)
 
 ---
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-[![Website](https://img.shields.io/badge/-Website-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://jetweb.in)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+[![Website](https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://jetweb.in)
 
 ---
 
-### 🌟 Fun Facts
+## 🏆 Achievements
 
-- 🌱 Always eager to learn and grow.
-- 💬 Ask me about web development, cloud architecture, and design.
+- **🎓 IIT Madras**: Pursuing Computer Science.
+- **💼 Amazon**: Training Operations Developer & Subject Matter Expert.
+- **🎨 Jetweb Labs**: Building innovative solutions with a touch of creativity.
+
+---
+
+## 📚 Recent Projects
+
+### 🌐 Web Projects
+- **[Project 1](https://github.com/your-github-username/project1)**: A revolutionary web application that does XYZ.
+- **[Project 2](https://github.com/your-github-username/project2)**: An innovative platform for ABC.
+- **[Project 3](https://github.com/your-github-username/project3)**: A cutting-edge tool for DEF.
+
+### 📱 Mobile Projects
+- **[Makeup Artists App](https://github.com/your-github-username/makeup-artists-app)**: A mobile app for makeup artists similar to Urban Company.
+
+---
+
+## 🌱 Fun Facts
+
+- 🌟 Passionate about tech and always eager to learn new things.
+- 💬 Ask me about web development, cloud architecture, and UI/UX design.
 - 🎯 Goal: To make the web a better place, one pixel at a time.
 
 ---
 
-### 🏆 Achievements
+![Visitor Count](https://profile-counter.glitch.me/your-github-username/count.svg)
 
-- 🎓 **IIT Madras**: Pursuing Computer Science.
-- 💼 **Amazon**: Training Operations Developer & Subject Matter Expert.
-- 🎨 **Jetweb Labs**: Building innovative solutions with a touch of creativity.
-
----
-
-### 📚 Recent Projects
-
-- **Project 1**: Description [Link]
-- **Project 2**: Description [Link]
-- **Project 3**: Description [Link]
-
----
-
-### 🧑‍💻 Work in Progress
-
-- **Mobile App for Makeup Artists**: An app similar to Urban Company.
-
----
-
-Thank you for visiting my profile! Let's connect and create something amazing together. 🚀
