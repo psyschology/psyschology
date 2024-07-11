@@ -56,12 +56,12 @@ Hey there! I'm Jay, the founder & CEO of [Jetweb Labs](https://jetweb.in). With 
 ## 📚 Recent Projects
 
 ### 🌐 Web Projects
-- **[Project 1](https://github.com/psyschology/academica1)**: A Web Application for the Coaching Center Academica
-- **[Project 2](https://github.com/psyschology/fun)**: An innovative platform for hiring.
-- **[Project 3](https://github.com/psyschology/djheman)**: A cutting-edge portfolio for DJ Hemant.
+- **[Academica](https://github.com/psyschology/academica1)**: A Web Application for the Coaching Center Academica
+- **[Fun Club Entertainment](https://github.com/psyschology/fun)**: An innovative platform for hiring.
+- **[DJ Heman](https://github.com/psyschology/djheman)**: A cutting-edge portfolio for DJ Hemant.
 
 ### 📱 Mobile Projects
-- **[Makeup Artists App](https://github.com/psyschology/MUA_App)**: A mobile app for makeup artists similar to Urban Company.
+- **[MUA_App](https://github.com/psyschology/MUA_App)**: A mobile app for makeup artists similar to Urban Company.
 
 ---
 
@@ -73,5 +73,5 @@ Hey there! I'm Jay, the founder & CEO of [Jetweb Labs](https://jetweb.in). With 
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/psyschology/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/your-github-username/count.svg)
 
