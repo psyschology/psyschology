@@ -32,8 +32,8 @@ Hey there! I'm Jay, the founder of [Jetweb Labs](https://jetweb.in). With a pass
 
 ## 📊 GitHub Stats
 
-[![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/your-github-username)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)](https://github.com/your-github-username)
+[![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=psyschology&show_icons=true&theme=radical)](https://github.com/your-github-username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psyschology&layout=compact&theme=radical)](https://github.com/your-github-username)
 
 ---
 
