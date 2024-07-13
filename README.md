@@ -62,6 +62,7 @@ Hey there! I'm Jay, the founder & CEO of [Jetweb Labs](https://jetweb.in). With 
 ## 📚 Recent Projects
 
 ### 🌐 Web Projects
+- **[FinSage](https://github.com/psyschology/FinSage)**: A Web Application for the Financial Community
 - **[Academica](https://github.com/psyschology/academica1)**: A Web Application for the Coaching Center Academica
 - **[Fun Club Entertainment](https://github.com/psyschology/fun)**: An innovative platform for hiring.
 - **[DJ Heman](https://github.com/psyschology/djheman)**: A cutting-edge portfolio for DJ Hemant.
